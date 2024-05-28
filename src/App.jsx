@@ -1,4 +1,3 @@
-import './App.css';
 import EventHandler from './components/Event-Hanlder';
 import JsxNonJsx from './components/Jsx-NonJsx';
 import PropsReusableComponent from './components/Props-Reusable-Component';
