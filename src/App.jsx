@@ -1,7 +1,6 @@
 import './App.css';
 import JsxNonJsx from './components/Jsx-NonJsx';
 import VariableInJsx from './components/Variable-In-Jsx';
-import PraktikSatu from './components/praktik-satu/Praktik-Satu';
 
 function App() {
   return (
@@ -12,8 +11,7 @@ function App() {
       {/* Variabel in Jsx */}
       {/* <VariableInJsx /> */}
 
-      {/* Praktik 1 */}
-      <PraktikSatu />
+  
     </>
   );
 }
