@@ -1,4 +1,5 @@
 import ConditionalRederingIfElse from './components/Conditional-Rendering-IfElse';
+import ConditionalRenderingTernaryOperator from './components/Conditional-Rendering-Ternary-Operator';
 import EventHandler from './components/Event-Hanlder';
 import JsxNonJsx from './components/Jsx-NonJsx';
 import PropsReusableComponent from './components/Props-Reusable-Component';
@@ -31,6 +32,9 @@ function App() {
 
       <hr />
       <ConditionalRederingIfElse />
+
+      <hr />
+      <ConditionalRenderingTernaryOperator />
   
     </>
   );
