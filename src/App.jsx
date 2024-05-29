@@ -1,6 +1,7 @@
 import ConditionalRederingIfElse from './components/Conditional-Rendering-IfElse';
 import ConditionalRenderingTernaryOperator from './components/Conditional-Rendering-Ternary-Operator';
 import EventHandler from './components/Event-Hanlder';
+import HandleForm from './components/HandleForm';
 import JsxNonJsx from './components/Jsx-NonJsx';
 import PropsReusableComponent from './components/Props-Reusable-Component';
 import UseStateConcepts from './components/UseState-Concepts';
@@ -35,6 +36,9 @@ function App() {
 
       <hr />
       <ConditionalRenderingTernaryOperator />
+
+      <hr />
+      <HandleForm />
   
     </>
   );
