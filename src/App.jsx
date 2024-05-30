@@ -1,3 +1,4 @@
+import CommunicationChildParent from './components/Communication-Child-Parent';
 import ConditionalRederingIfElse from './components/Conditional-Rendering-IfElse';
 import ConditionalRenderingTernaryOperator from './components/Conditional-Rendering-Ternary-Operator';
 import EventHandler from './components/Event-Hanlder';
@@ -43,6 +44,9 @@ function App() {
 
       <hr />
       <HandldeMultiform />
+
+      <hr />
+      <CommunicationChildParent />
   
     </>
   );
